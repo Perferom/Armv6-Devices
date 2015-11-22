@@ -1,0 +1,195 @@
+Acer beTouch E140
+Acer beTouch E210
+Acer beTouch E400
+Acer Liquid mini
+Alcatel One Touch OT-906
+Alcatel One Touch OT-908
+Alcatel One Touch OT-980
+Alcatel One Touch OT-990
+Alcatel v860 (Vodafone Smart II)
+Android SDK emulator
+Archos Arnova 7c G2
+Asus Garmin nuvifone A50 (T-Mobile Garminfone)
+Augen GENTouch 78 Tablet
+Beeline E300
+Beeline M2
+Coby Kyros Internet Tablet (MID7015)
+Cowon D3 plenue
+Excimer eTab A07
+Explay MID-710
+Fly IQ250 Swift
+Fly IQ260 Blackbird
+Fly IQ270 Firebird
+Geeksphone One, Geeksphone Zero
+Gigabyte GSmart G1305 Codfish
+Gigabyte GSmart G1310 Ray
+Gigabyte GSmart G1315 Skate
+Gigabyte GSmart G1317D Rola
+GoClever TAB T70
+GoClever TAB T73
+Gpad G10
+Gpad G11 (HSG X5A)
+HighScreen Cosmo
+HighScreen Cosmo DUO
+HighScreen PP5420
+HighScreen Zeus
+HTC Aria
+HTC ChaCha A810e
+HTC Dream (T-Mobile G1, Android Dev Phone 1)
+HTC Droid Eris
+HTC Espresso (T-Mobile myTouch 3G Slide)
+HTC Gratia (HTC Liberty)
+HTC Hero (T-Mobile G2 Touch)
+HTC Legend
+HTC Magic (T-Mobile myTouch 3G, T-Mobile G1 Touch)
+HTC Salsa
+HTC Tattoo
+HTC Wildfire
+HTC Wildfire A333
+HTC Wildfire S (A510E, HTC Marvel)
+Huawei Ascend
+Huawei Ideos U8150
+Huawei Ideos U8150-B (T-Mobile Comet)
+Huawei Ideos X1 Gaga (Huawei U8180)
+Huawei Ideos X3 (Huawei U8510)
+Huawei M835
+Huawei M865
+Huawei Sonic U8650
+Huawei U8100
+Huawei U8110 (T-Mobile Pulse Mini)
+Huawei U8160 (Vodafone 858 Smart)
+Huawei U8220
+Huawei U8230
+Huawei U8300
+Huawei U8500
+INQ Cloud Touch
+JoinTech JR70
+Kyocera Milano
+Kyocera Zio M6000
+Lenovo A60
+LG Ally (LG VS740)
+LG Apex (LG US740)
+LG Enlighten (LG VS700)
+LG GW620 (Eve, InTouch Max, LinkMe)
+LG Optimus (LG GT540)
+LG Optimus Chat (C550)
+LG Optimus Chic (E720)
+LG Optimus Hub (LG E510, Univa)
+LG Optimus Link (P690, Optimus Net)
+LG Optimus Link Dual Sim (P698)
+LG Optimus M (MS690)
+LG Optimus Me (P350, Pecan)
+LG Optimus Net (P690, Optimus Link)
+LG Optimus One (P500, P509, Optimus T, Thrive, Phoenix)
+LG Optimus Pro (C660)
+LG Optimus S (LS670)
+LG Optimus T (P509)
+LG Optimus V (VM670)
+LG Vortex (VS660)
+Linx Commtiva N700
+MAG iMiTO iM7
+MAG iMiTO iM7S
+Mediatek 675
+Micromax A50 Ninja
+Micromax A52
+Micromax A60
+Micromax A70
+Micromax A75
+Micromax A80
+Micromax A85
+Motorola Backflip (Motus, MB300, ME600)
+Motorola Citrus (WX445)
+Motorola Cliq (Morrison, MB200)
+Motorola CLIQ XT (MB501)
+Motorola Devour (Calgary, A555)
+Motorola Dext (Morrison, MB220)
+Motorola Fire (XT311)
+Motorola Fire XT (XT531)
+Motorola i1 (Opus One)
+Motorola Quench (ME501)
+Motorola Quench XT3 (Commtiva Z71)
+Motorola Quench XT5 (XT502)
+Motorola Spice (XT300)
+Motorola Spice Key (XT316)
+MTC 916
+MTC 950 (Huawei U8160, Vodafone 858 Smart)
+MTC 955 (Huawei U8650 Sonic)
+MTC Android (Huawei U8110, Red Bull Mobile RBMK, T-Mobile Pulse Mini)
+MTC Evo
+One Touch 991
+One Touch 991D
+Orange Boston (Gigabyte GSmart G1305 Codfish, Motorola QUENCH XT5, Commtiva Z71)
+Orange Monte Carlo
+Orange San Francisco (Project JAL, Beeline E400)
+Pandigital Novel 7" (Tablet & eReader)
+Pantech Crossover
+PocketBook IQ 701
+Ritmix RMD-720
+Samsung GT-B7350 WiTu Pro
+Samsung GT-B7510 Galaxy Pro
+Samsung GT-B7620 Giorgio Armani
+Samsung GT-i5500 Galaxy 5 (Corby, Galaxy Europa)
+Samsung GT-i5510 Galaxy 551
+Samsung GT-i5700 Galaxy Spica (Galaxy Lite, Galaxy Portal)
+Samsung GT-i5800 Galaxy 580 (Galaxy 3, Galaxy Teos)
+Samsung GT-i5801 Galaxy Apollo (Galaxy Naos)
+Samsung GT-i6500U (Saturn, Galaxy)
+Samsung GT-i7500 Galaxy
+Samsung GT-S5300 Galaxy Pocket
+Samsung GT-S5360 Galaxy Y (Galaxy Young)
+Samsung GT-S5512 Galaxy Y Pro Duos
+Samsung GT-S5570 Galaxy Mini (Galaxy Pop, Tass)
+Samsung GT-S5660 Galaxy Gio
+Samsung GT-S5670 Galaxy Fit
+Samsung GT-S5830 Galaxy Ace
+Samsung GT-S6102 Galaxy Y Duos
+Samsung SCH-i100 Gem
+Samsung SCH-R720 Admire
+Samsung SGH-T499 Dart
+Samsung SGH-T589 Gravity SMART (Galaxy Q)
+Samsung SGH-T939 Behold II (Behold 2)
+Samsung SPH-M580 Replenish
+Samsung SPH-M820 Galaxy Prevail
+Samsung SPH-M900 Moment
+Samsung SPH-M910 Intercept
+Samsung SPH-M920 Transform
+Sanyo ZIO M6000
+Sharp SH7218U
+Sony Ericsson W8 Walkman
+Sony Ericsson Xperia X8(X8i, Shakira, E15i)
+Sony Ericsson Xperia X10 Mini (Robyn, E10i)
+Sony Ericsson Xperia X10 Mini Pro (U20i, Mimmi)
+Spice Mi-270
+Spice Mi-280
+Spice Mi-310
+Spice Mi-350/Lenovo A60
+Spice Mi-350n/Fly IQ260
+STAR A7272+
+Superpad 10.2" Tablet PC
+T-Mobile Comet (Huawei 8150 Ideos)
+T-Mobile G1 (HTC Dream)
+T-Mobile G2 Touch (HTC Hero)
+T-Mobile Garminfone
+T-Mobile Move (Alcatel OT-908)
+T-Mobile myTouch 3G (HTC Magic)
+T-Mobile myTouch 3G Fender LE (HTC Sapphire)
+T-Mobile myTouch 3G Slide (HTC Espresso)
+T-Mobile Pulse (Huawei U8220)
+T-Mobile Pulse Mini (Huawei U8110, Red Bull Mobile RBMK, ??? Android)
+Velocity Micro T103 Cruz tablet
+Velocity Micro T104 Cruz tablet
+Velocity Micro T105 Cruz tablet
+ViewSonic V350
+Viewsonic ViewPad 7 Tablet
+Vodafone 845
+Vodafone 945
+Vodafone Smart II (Smart 2, V860)
+ZTE Blade (Orange San Francisco, Project JAL, Beeline E400)
+ZTE Blade U880
+ZTE Libra (X880)
+ZTE Light (ZTE V9)
+ZTE Link
+ZTE Penguin (Micromax A60)
+ZTE Racer (??? 916)
+ZTE Skate (Orange Monte Carlo)
+ZTE Tureis
